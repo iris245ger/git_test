@@ -125,4 +125,8 @@ static void RunningProgram (string arg1, string arg2)
     program.StartInfo.Arguments = arg2;
     program.Start();
 }
+class InBuidCommands
+{
+
+}
 
